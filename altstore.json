@@ -18,6 +18,15 @@
       "localizedDescription": "Câmera nativa para iPhone conectada ao Tennis Vision Studio no Windows. H.264, perfis de 30 a 240 FPS conforme o suporte real, painel de análise, áreas, impactos e estatísticas. O PC executa a IA e deve estar ligado na mesma rede. Instalação e renovação pelo AltStore Classic.",
       "versions": [
         {
+          "version": "0.2.1",
+          "buildVersion": "3",
+          "date": "2026-10-09T00:08:18+00:00",
+          "downloadURL": "https://github.com/Laikan2/tennis-vision-releases/releases/download/v0.6.9/Tennis-Vision-Camera-iOS-v0.2.1-AltStore.ipa",
+          "size": 399529,
+          "minOSVersion": "17.4",
+          "localizedDescription": "Correções na orientação da câmera, recuperação do vídeo H.264 após perda de quadros e reabertura do painel. Atualize também o Windows para 0.6.9: seleção de área com vídeo ao vivo e melhoria na detecção da bola verde sob variações de iluminação."
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "2",
           "date": "2026-10-08T19:53:27+00:00",
