@@ -18,6 +18,15 @@
       "localizedDescription": "Tennis Vision mobile: os recursos de treino local do Android no iPhone. Bola verde, rastro, área por quatro cantos/arraste com lupa, impactos candidatos, IN/OUT com revisão, som OUT, estatísticas e histórico sem Windows ou internet. Perfis de 720p/1080p e lentes reais; 120/240 FPS dependem dos formatos e desempenho do aparelho, com taxa recebida medida. Uma câmera não garante arbitragem, contato físico ou velocidade 3D de saques. Atualizações na fonte oficial do GitHub com confirmação e assinatura pelo AltStore Classic. O modo de transmissão Windows continua opcional.",
       "versions": [
         {
+          "version": "0.6.7",
+          "buildVersion": "8",
+          "date": "2026-10-15T17:40:29+00:00",
+          "downloadURL": "https://github.com/Laikan2/tennis-vision-releases/releases/download/mobile-v0.6.7/Tennis-Vision-Camera-iOS-v0.6.7-AltStore.ipa",
+          "size": 793799,
+          "minOSVersion": "17.4",
+          "localizedDescription": "iPhone e Android 0.6.7: melhora a bola amarelada pela iluminação e a bola próxima da lente. Obstruções suspendem impactos e aguardam a mesma imagem voltar, sem encerrar o treino. Mudança de enquadramento exige conferir a área. Marcas antigas continuam no histórico, com menos rótulos sobre o vídeo. Explica o limite do piso e os motivos de revisão. Testes controlados não comprovam precisão em partidas."
+        },
+        {
           "version": "0.6.6",
           "buildVersion": "7",
           "date": "2026-10-15T04:55:03+00:00",
